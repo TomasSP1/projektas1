@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    margin: auto;
+}
+
+img {
+    height: 50em;
+}
+
+#carouselExampleControls, #form {
+    max-width: 1024px;
+    margin: auto;
+    margin-top: 1em;
+}
+
+.card6 {
+    margin-bottom: 2em;
+}
+
